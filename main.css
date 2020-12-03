@@ -20,7 +20,7 @@ body{
   width: 90%;
   margin: 0 auto;
 }
-wrapper{
+div{
   margin: 0 auto;
   text-align: center;
   color: #333;
@@ -59,11 +59,10 @@ wrapper{
   .lang {
     font-size: 0.6rem;
   }
-
 .lang a{
   text-decoration: none;
   color: blue;
 }
 .lang a:hover{
   color: darkcyan;
-}
+  }
