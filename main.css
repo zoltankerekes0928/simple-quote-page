@@ -15,13 +15,17 @@ body{
   font-size: 2.5rem;
   font-family: 'Julius Sans One', sans-serif;  
   margin-top: 40px;
+  line-height: 1.5; 
+  width: 90%;
 }
 wrapper{
-  width: 90%;
   margin: 0 auto;
   text-align: center;
   color: #333;
 }
 #author{
   padding-top:  35px;
+  font-family: 'Crimson Text', serif;
+  font-size: 1.5rem;
+  font-style: italic;
 }
