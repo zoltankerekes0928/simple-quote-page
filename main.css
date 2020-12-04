@@ -46,6 +46,13 @@ div{
     font-size: 1rem;
   }
 }
+.lang a{
+  text-decoration: none;
+  color: blue;
+}
+.lang a:hover{
+  color: darkcyan;
+  }
 @media only screen and (max-width: 480px) and (min-width: 150px){
   #quote{
     font-size: 0.8rem;
@@ -58,11 +65,4 @@ div{
   }
   .lang {
     font-size: 0.6rem;
-  }
-.lang a{
-  text-decoration: none;
-  color: blue;
-}
-.lang a:hover{
-  color: darkcyan;
   }
